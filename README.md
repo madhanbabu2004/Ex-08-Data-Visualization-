@@ -251,3 +251,7 @@ plt.show()
 ![output](./v.png)
 ![output](./w.png)
 ![output](./x.png)
+
+
+# RESULT
+Data Visualization is performed on the given dataset and save the data to a file is done sucssessfully
